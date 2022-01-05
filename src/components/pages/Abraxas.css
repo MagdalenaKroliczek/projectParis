@@ -1,0 +1,21 @@
+/* .presentation__me{
+    margin: 60px 110px;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(63, 61, 61);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+
+} */
+
+.description__text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px 130px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
