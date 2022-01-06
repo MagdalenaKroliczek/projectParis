@@ -17,7 +17,7 @@ const Contact = () => {
       email: email.value,
       message: message.value,
     };
-    let response = await fetch("https://parisinconnuebackend.herokuapp.com/contactform", {
+    let response = await fetch("https://parisinconnuebackend.herokuapp.com/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
