@@ -24,7 +24,7 @@ function Navbar() {
            <nav className='navbar'>
                <div className='navbar-container'>
                    <Link to= "/home" className= "navbar-logo">
-                       Paris Inconnue
+                       Paris Inconnu
                        <i class="fas fa-camera-retro"></i>
                    </Link>
                    <div className='menu-icon' onClick={handleClick}>

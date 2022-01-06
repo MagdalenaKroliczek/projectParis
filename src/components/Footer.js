@@ -49,7 +49,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
           <Link to= "/" className= "navbar-logo">
-                       Paris Inconnue
+                       Paris Inconnu
                        <i class="fas fa-camera-retro"></i>
           </Link>
           </div>
